@@ -1,0 +1,1 @@
+// Destructuring is a powerful way to create variables from values in arrays and objects, and you should use it. It will make your code simpler!
