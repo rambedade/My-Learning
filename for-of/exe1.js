@@ -16,7 +16,7 @@ console.log(sportsCar)
 
 //using for in loop
 
-for (const key in sportsCar) {    // -- for in loop is unreliable cause it cause,
+for (const key in sportsCar) {    // -- for in loop is unreliable cause ,
                                   // it iterating over object and it's prototype  
     console.log(key)             //engine
                                  //steering
